@@ -1,0 +1,16 @@
+﻿Informe de Ventas de Productos Tecnológicos 2023
+Objetivo
+Este informe presenta un análisis detallado de las ventas de productos tecnológicos durante el año 2023, incluyendo laptops, smartphones, tablets, auriculares y Smart TVs.
+Metodología
+Los datos fueron recopilados mensualmente y almacenados en formato CSV para su posterior análisis utilizando Google Colab. Se realizaron análisis de tendencias y patrones de ventas para cada categoría de producto.
+Datos
+Los datos incluyen las siguientes categorías:
+* Computadoras portátiles
+* Teléfonos inteligentes
+* Tabletas
+* Auriculares
+* Televisores inteligentes
+Análisis
+El análisis se realizará utilizando Python en Google Colab, donde se generarán visualizaciones y estadísticas descriptivas de los datos.
+Conclusiones
+[Este espacio se completará después del análisis en Colab]
